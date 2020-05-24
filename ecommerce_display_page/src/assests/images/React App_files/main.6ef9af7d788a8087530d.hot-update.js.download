@@ -1,0 +1,25 @@
+webpackHotUpdate("main",{
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/components/UI/Logo/Logo.module.css":
+/*!***************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--6-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/UI/Logo/Logo.module.css ***!
+  \***************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../../../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+exports = ___CSS_LOADER_API_IMPORT___(false);
+// Module
+exports.push([module.i, ".Logo_Logo__31YwM {\r\n    background-color: white;\r\n    height: 100%;\r\n    box-sizing: border-box;\r\n    width: 20rem;\r\n    padding: 1.5rem;\r\n    border-right: 1px solid #e5e5e5;\r\n    text-align: center;\r\n}\r\n\r\n.Logo_Logo__31YwM img {\r\n    height: 100%;\r\n    width: 100%;\r\n}", ""]);
+// Exports
+exports.locals = {
+	"Logo": "Logo_Logo__31YwM"
+};
+module.exports = exports;
+
+
+/***/ })
+
+})
+//# sourceMappingURL=main.6ef9af7d788a8087530d.hot-update.js.map

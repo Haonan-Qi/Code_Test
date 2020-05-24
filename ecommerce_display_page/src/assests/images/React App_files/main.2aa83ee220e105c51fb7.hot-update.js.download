@@ -1,0 +1,121 @@
+webpackHotUpdate("main",{
+
+/***/ "./src/components/Navigation/Toolbar/Toolbar.js":
+/*!******************************************************!*\
+  !*** ./src/components/Navigation/Toolbar/Toolbar.js ***!
+  \******************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
+/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _Toolbar_module_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Toolbar.module.css */ "./src/components/Navigation/Toolbar/Toolbar.module.css");
+/* harmony import */ var _Toolbar_module_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_Toolbar_module_css__WEBPACK_IMPORTED_MODULE_1__);
+/* harmony import */ var _UI_Banner_Banner__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../UI/Banner/Banner */ "./src/components/UI/Banner/Banner.js");
+/* harmony import */ var _NavigationItems_NavigationItems__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../NavigationItems/NavigationItems */ "./src/components/Navigation/NavigationItems/NavigationItems.js");
+/* harmony import */ var _UI_Logo_Logo__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../../UI/Logo/Logo */ "./src/components/UI/Logo/Logo.js");
+/* harmony import */ var _NavigationItems_NavigationItem_NavigationItem__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../NavigationItems/NavigationItem/NavigationItem */ "./src/components/Navigation/NavigationItems/NavigationItem/NavigationItem.js");
+/* harmony import */ var _iconify_react__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @iconify/react */ "./node_modules/@iconify/react/dist/icon.js");
+/* harmony import */ var _iconify_react__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_iconify_react__WEBPACK_IMPORTED_MODULE_6__);
+/* harmony import */ var _iconify_icons_ant_design_search_outlined__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @iconify/icons-ant-design/search-outlined */ "./node_modules/@iconify/icons-ant-design/search-outlined.js");
+/* harmony import */ var _iconify_icons_ant_design_search_outlined__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_iconify_icons_ant_design_search_outlined__WEBPACK_IMPORTED_MODULE_7__);
+var _jsxFileName = "C:\\Users\\qhn\\Desktop\\CodeTest\\ecommerce_display_page\\src\\components\\Navigation\\Toolbar\\Toolbar.js";
+
+
+
+/* import Logo from "../../Logo/Logo"; */
+
+
+/* import DrawerToggle from "../SideDrawer/DrawerToggle/DrawerToggle"; */
+
+/* import PropTypes from "prop-types"; */
+
+
+
+
+
+
+const Toolbar = props => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react__WEBPACK_IMPORTED_MODULE_0__["Fragment"], {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 14,
+    columnNumber: 3
+  }
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("header", {
+  className: _Toolbar_module_css__WEBPACK_IMPORTED_MODULE_1___default.a.Toolbar,
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 15,
+    columnNumber: 5
+  }
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 20,
+    columnNumber: 7
+  }
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_UI_Logo_Logo__WEBPACK_IMPORTED_MODULE_4__["default"], {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 21,
+    columnNumber: 9
+  }
+}), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_NavigationItems_NavigationItem_NavigationItem__WEBPACK_IMPORTED_MODULE_5__["default"], {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 23,
+    columnNumber: 9
+  }
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_iconify_react__WEBPACK_IMPORTED_MODULE_6__["Icon"], {
+  icon: _iconify_icons_ant_design_search_outlined__WEBPACK_IMPORTED_MODULE_7___default.a,
+  color: "#414042",
+  width: "20px",
+  height: "20px",
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 23,
+    columnNumber: 21
+  }
+}), " Search")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("nav", {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 27,
+    columnNumber: 7
+  }
+}, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_NavigationItems_NavigationItems__WEBPACK_IMPORTED_MODULE_3__["default"]
+/* isAuthenticated={props.isAuth} */
+, {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 28,
+    columnNumber: 9
+  }
+}))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_UI_Banner_Banner__WEBPACK_IMPORTED_MODULE_2__["default"], {
+  __self: undefined,
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 33,
+    columnNumber: 5
+  }
+}));
+/* Toolbar.propTypes = {
+  drawerToggleClicked: PropTypes.func,
+}; */
+
+
+/* harmony default export */ __webpack_exports__["default"] = (Toolbar);
+
+/***/ })
+
+})
+//# sourceMappingURL=main.2aa83ee220e105c51fb7.hot-update.js.map

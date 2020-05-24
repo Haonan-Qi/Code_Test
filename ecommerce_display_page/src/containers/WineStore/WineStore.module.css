@@ -1,0 +1,48 @@
+.DisplayInfo{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    margin: 0px 32px;
+    background-color: white;
+}
+
+.matchInfo{
+    display: flex;
+    align-items:center;
+    font-size: 2rem;
+    background: #ececec;
+    padding-left: 24px;
+}
+.matchInfo span{
+    color: red;
+    margin-right: 1rem;
+}
+
+.resultsInfo{
+    display: grid;
+    grid-template-rows: 50.67px 3rem 1fr;
+}
+
+.resultsInfo1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 2rem;
+    padding: 0 1.5rem;
+}
+
+.resultsInfo2{
+    display: flex;
+    flex-wrap:wrap;
+    background-color:#ececec;
+    justify-content: space-between;
+    padding-left: 3rem;
+}
+
+.resultsInfoXXXX{
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+    background-color:#ececec;
+    align-items: center;
+
+}

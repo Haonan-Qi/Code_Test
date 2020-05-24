@@ -1,0 +1,25 @@
+webpackHotUpdate("main",{
+
+/***/ "./node_modules/css-loader/dist/cjs.js?!./node_modules/postcss-loader/src/index.js?!./src/components/UI/Banner/Banner.module.css":
+/*!*******************************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ref--6-oneOf-4-1!./node_modules/postcss-loader/src??postcss!./src/components/UI/Banner/Banner.module.css ***!
+  \*******************************************************************************************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+// Imports
+var ___CSS_LOADER_API_IMPORT___ = __webpack_require__(/*! ../../../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
+exports = ___CSS_LOADER_API_IMPORT___(false);
+// Module
+exports.push([module.i, ".Banner_Banner__3G-uc {\r\n    width: 100%;\r\n    height: 30rem;\r\n    overflow: hidden;\r\n    margin-top:-6rem;\r\n}\r\n\r\n.Banner_Banner__3G-uc img {\r\n    width:100%;\r\n}", ""]);
+// Exports
+exports.locals = {
+	"Banner": "Banner_Banner__3G-uc"
+};
+module.exports = exports;
+
+
+/***/ })
+
+})
+//# sourceMappingURL=main.d927daf9ac56f0d0eb52.hot-update.js.map
